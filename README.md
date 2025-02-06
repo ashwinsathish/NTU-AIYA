@@ -32,15 +32,3 @@ The notebook `SVM_Kernels_Implementation.ipynb` contains the following key compo
 The notebook includes several visualizations:
 - 2D scatter plot of the original dataset
 - 3D scatter plots showing the transformation of the data using polynomial features
-
-## How to Use
-
-1. Clone this repository.
-2. Open the `SVM_Kernels_Implementation.ipynb` notebook in Jupyter or Google Colab.
-3. Run the cells sequentially to see the data generation, visualization, and SVM implementations.
-
-## Future Work
-
-- Implement and compare other SVM kernels (e.g., RBF, sigmoid).
-- Apply the kernels to real-world datasets.
-- Optimize hyperparameters for better performance.
